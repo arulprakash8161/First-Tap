@@ -1,0 +1,6 @@
+{
+  "name": "FirstTap - Voice-First AI Digital Literacy Companion",
+  "description": "A voice-first digital literacy companion for first-time smartphone users, featuring AI mentor Selvi, interactive practice sandboxes for UPI payments and messaging, confidence profiling, and real-time guidance.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
